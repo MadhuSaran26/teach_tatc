@@ -1,6 +1,8 @@
 # TEACh Two-Agent Task Completion (TATC) Challenge
 [Task-driven Embodied Agents that Chat](https://arxiv.org/abs/2110.00534)
 
+Madhu's fork. But where is the spoon?
+
 Aishwarya Padmakumar*, Jesse Thomason*, Ayush Shrivastava, Patrick Lange, Anjali Narayan-Chen, Spandana Gella, Robinson Piramuthu, Gokhan Tur, Dilek Hakkani-Tur
 
 TEACH (Task-drive Embodied Agents that Chat) is a set of episodes in which a human Commander who knows what task needs to be accomplished and where objects in a scene are located works with a human Follower who controls a virtual agent in the scene to accomplish household chores. The Commander and Follower communicate via natural language text. TEACh enables researchers to study strategies for natural language cooperation, instruction following from egocentric vision, question and answer generation, and partner modeling. We believe these skills will be necessary for real-world language-driven robotics applications.
